@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="service_area" table="x_58872_needit_ask_a_question" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>service_area</element>
+            <name>x_58872_needit_ask_a_question</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 10:58:32</sys_created_on>
+            <sys_id>b4c7ac58db022010e420b080399619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>service_area</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_ask_a_question_service_area</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 10:58:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data/MDM</label>
+            <language>en</language>
+            <name>x_58872_needit_ask_a_question</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 10:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cc7ac58db022010e420b080399619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 10:58:32</sys_updated_on>
+            <value>data/mdm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reporting &amp; Analytics</label>
+            <language>en</language>
+            <name>x_58872_needit_ask_a_question</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 10:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0c7ac58db022010e420b080399619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 10:58:32</sys_updated_on>
+            <value>reporting &amp; analytics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Planning &amp; Forecasting</label>
+            <language>en</language>
+            <name>x_58872_needit_ask_a_question</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 10:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34c7ac58db022010e420b080399619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 10:58:32</sys_updated_on>
+            <value>planning &amp; forecasting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Account To Report</label>
+            <language>en</language>
+            <name>x_58872_needit_ask_a_question</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 10:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4c7ac58db022010e420b080399619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 10:58:32</sys_updated_on>
+            <value>account to report</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_ask_a_question</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 10:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38c7ac58db022010e420b080399619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 10:58:32</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

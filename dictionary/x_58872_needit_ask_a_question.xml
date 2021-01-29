@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ask a Question ?" max_length="40" name="x_58872_needit_ask_a_question" sizeclass="1" type="collection">
+        <element label="Assigned To" mandatory="true" max_length="32" name="assigned_to" reference="cmdb_ci_group" type="reference"/>
+        <element label="Description" mandatory="true" max_length="500" name="description" type="string"/>
+        <element label="Question" max_length="40" name="question" type="string"/>
+        <element label="Requested For" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element choice="1" default="other" display="true" label="Service Area" mandatory="true" max_length="4000" name="service_area" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data/MDM" sequence="0" value="data/mdm"/>
+                <element inactive_on_update="false" label="Reporting &amp; Analytics" sequence="1" value="reporting &amp; analytics"/>
+                <element inactive_on_update="false" label="Planning &amp; Forecasting" sequence="2" value="planning &amp; forecasting"/>
+                <element inactive_on_update="false" label="Account To Report" sequence="3" value="account to report"/>
+                <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
+            </choice>
+        </element>
+        <element label="Short Description" mandatory="true" max_length="400" name="short_description" type="string"/>
+        <index name="index">
+            <element name="requested_for"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>
