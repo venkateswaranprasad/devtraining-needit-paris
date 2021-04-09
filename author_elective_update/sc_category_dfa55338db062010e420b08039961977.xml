@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 12:56:16</sys_created_on>
+        <sys_id>dfa55338db062010e420b08039961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask a Query ?</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_category_dfa55338db062010e420b08039961977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 12:56:16</sys_updated_on>
+        <title>Ask a Query ?</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=dfa55338db062010e420b08039961977"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1c6f5076dbf037002f68c597059619c3</instance_id>
+        <instance_name>dev81591</instance_name>
+        <name>sc_category_dfa55338db062010e420b08039961977</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-29 12:56:16</sys_created_on><sys_id>dfa55338db062010e420b08039961977</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ask a Query ?</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_category_dfa55338db062010e420b08039961977</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-29 12:56:16</sys_updated_on><title>Ask a Query ?</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=dfa55338db062010e420b08039961977"/></record_update>]]></payload>
+        <payload_hash>-1391569369</payload_hash>
+        <record_name>Ask a Query ?</record_name>
+        <reverted_from/>
+        <source>938f00a1db212010e420b080399619f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 12:56:16</sys_created_on>
+        <sys_id>3ce5d338db062010e420b080399619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774e3733c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 12:56:16</sys_updated_on>
+        <type>Category</type>
+        <update_guid>74e5d338fa0620100dd421d3d6dac7c6</update_guid>
+        <update_guid_history>74e5d338fa0620100dd421d3d6dac7c6:-1391569369</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Ask a Query ?">9bb6df38db062010e420b08039961994</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 12:59:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>0de9340519f144dc8193403e1c614669</sys_id>
+        <sys_metadata>dfa55338db062010e420b08039961977</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask a Query ?</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_category_dfa55338db062010e420b08039961977</sys_update_name>
+        <sys_update_version display_value="sc_category_dfa55338db062010e420b08039961977">3ce5d338db062010e420b080399619c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 12:59:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

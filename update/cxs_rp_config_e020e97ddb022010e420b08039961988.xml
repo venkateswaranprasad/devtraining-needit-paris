@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_expand_collapse>true</allow_expand_collapse>
+        <cxs_context_config display_value="Knowledge Search">69a05b3853001300a9a2664906dc343f</cxs_context_config>
+        <limit>10</limit>
+        <name>Ask a Query</name>
+        <results_header_text> Related Knowledge</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item/>
+        <search_variable display_value="Descrice Your Question">7f7f197ddb022010e420b0803996194c</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 06:56:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e020e97ddb022010e420b08039961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask a Query</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>cxs_rp_config_e020e97ddb022010e420b08039961988</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 06:56:20</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=e020e97ddb022010e420b08039961988"/>
+</record_update>

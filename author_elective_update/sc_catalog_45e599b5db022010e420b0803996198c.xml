@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="DELETE">
+        <active>true</active>
+        <background_color>#FFFFFF</background_color>
+        <description>A catalog of DFIT services</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 06:11:09</sys_created_on>
+        <sys_id>45e599b5db022010e420b0803996198c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>DFIT Catalog</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_catalog_45e599b5db022010e420b0803996198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 06:37:59</sys_updated_on>
+        <title>DFIT Catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="DELETE" query="documentkey=45e599b5db022010e420b0803996198c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1c6f5076dbf037002f68c597059619c3</instance_id>
+        <instance_name>dev81591</instance_name>
+        <name>sc_catalog_45e599b5db022010e420b0803996198c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog"><sc_catalog action="INSERT_OR_UPDATE"><active>true</active><background_color>#FFFFFF</background_color><description>A catalog of DFIT services</description><desktop_continue_shopping/><desktop_home_page/><desktop_image/><editors/><enable_wish_list>false</enable_wish_list><manager/><sys_class_name>sc_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-01 06:11:09</sys_created_on><sys_id>45e599b5db022010e420b0803996198c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>DFIT Catalog</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_catalog_45e599b5db022010e420b0803996198c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-01 06:37:59</sys_updated_on><title>DFIT Catalog</title></sc_catalog><sys_translated_text action="delete_multiple" query="documentkey=45e599b5db022010e420b0803996198c"/></record_update>]]></payload>
+        <payload_hash>-808721635</payload_hash>
+        <record_name>DFIT Catalog</record_name>
+        <reverted_from/>
+        <source>938f00a1db212010e420b080399619f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 06:37:59</sys_created_on>
+        <sys_id>a81c5979db022010e420b080399619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1775c4ff1a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 06:37:59</sys_updated_on>
+        <type>Catalog</type>
+        <update_guid>e01c597989022010b552375bfde453f2</update_guid>
+        <update_guid_history>e01c597989022010b552375bfde453f2:-808721635,3b3a5179740220103cd7aac5147f3a04:1151358679,ffe599b53402201063743c6aed0e44f7:171229065</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DFIT Catalog">99f931b62f2220106d73d49df699b66e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 07:53:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog">sc_catalog</sys_db_object>
+        <sys_id>ad43b1e5abae40aca7b0a7a4d4145210</sys_id>
+        <sys_metadata>45e599b5db022010e420b0803996198c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DFIT Catalog</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_catalog_45e599b5db022010e420b0803996198c</sys_update_name>
+        <sys_update_version display_value="sc_catalog_45e599b5db022010e420b0803996198c">a81c5979db022010e420b080399619f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 07:53:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
